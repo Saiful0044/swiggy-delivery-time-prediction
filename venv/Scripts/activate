@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\ML Project\Swiggy-Delivery-Time-Prodiction\swiggy-delivery-time-prediction\venv"
+VIRTUAL_ENV="D:\ML Project\swiggy-delivery-time-prediction\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -1,4 +1,4 @@
-#!d:\ml project\swiggy-delivery-time-prodiction\swiggy-delivery-time-prediction\venv\scripts\python.exe
+#!d:\ml project\swiggy-delivery-time-prediction\venv\scripts\python.exe
 
 import sys
 import json
